@@ -1,4 +1,4 @@
-# BMW-Data-Analytics-Power-BI-Project
+# BMW Data Analytics Power BI Project
 This repository presents a project for analyzing a .CSV file containing data on supported BMW models.
 
 ## Overview
